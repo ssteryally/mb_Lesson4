@@ -16,3 +16,4 @@ rootProject.name = "shunyaev.Lesson4"
 include ':app'
 include ':musicplayer'
 include ':thread'
+include ':looper'
